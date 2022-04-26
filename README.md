@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Allahnana
+- 👋 Hi, I’m Usman Abdulhadi Allahnana.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate with t
