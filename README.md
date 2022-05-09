@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Usman Abdulhadi Allahnana.
+- 👋 Hi, I’m Usman Abdulhadi Allahnana.....
 - 👀 I’m interested in learning new technologies that will help in solving our modern problems.
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate with tech minded people like me.
