@@ -39,14 +39,13 @@
 <h3 align="center">🚀 Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Programming Languages</kbd>  
-  
+   
   </a>
   </kbd>
       <br>
        <br>
   <kbd>
-    <kbd> 👨🏻‍💻Front-end</kbd>
+    <kbd> 💻Front-end</kbd>
     <br>
     <br>
 
