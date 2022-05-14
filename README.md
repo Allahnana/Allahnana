@@ -40,7 +40,7 @@
   </p>
 </br>
 
-<h3 align="left">▶ Languages and Tools:</h3>
+<h3 align="left">## 🚀 Languages and Tools::</h3>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>  
