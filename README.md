@@ -92,13 +92,6 @@ You can click the Preview link to take a look at your changes.
       height="30"
     />
   </kbd>
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  </kbd>
   <br>
   <br>
   <kbd>
