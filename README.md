@@ -132,13 +132,6 @@
 </p>
 
 
-## ❤ Views and Followers
-
-<a href="https://twitter.com/dev_allahnana" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/allahnana_codes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
-<a href="https://github.com/Allahnana" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/allahnana-dev?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-
 
 <a href="https://github.com/Allahnana/github-readme-activity-graph"><img alt="Aakashrao-dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Allahnana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
