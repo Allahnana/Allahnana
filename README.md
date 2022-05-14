@@ -1,8 +1,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+I'm+Dev_Abdul!+👋;I'm+a+Front+End+Developer+👨🏻‍💻;)
-<!-- <h1 align="center">Hi 👋, I'm Dev_Abdul</h1>  -->
+ <h1 align="center">Hi 👋, I'm Dev_Abdul</h1>  
 
-## 🧐 About
+## 🧐 About me
 
 <h3 align="center">A passionate Front End Developer. Love to build Web Applications with latest tech available😄!
 
