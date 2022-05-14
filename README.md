@@ -28,7 +28,7 @@
 
 
 <h3 align="center"> 📱Connect with me:</h3>
-  <p>
+  <p  align="center">
     <a href="https://www.linkedin.com/in/abdulhadi-usman-25700b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
     <a href="https://www.instagram.com/dev_abdul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
       <a href="https://twitter.com/dev_allahnana" target="_blank"><img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/_.sanda._)](https://www.twitter.com/_.sanda._/"></a>
@@ -38,14 +38,12 @@
 
 <h3 align="center">🚀 Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
-  <kbd>
-   
-  </a>
-  </kbd>
+  
+  
       <br>
        <br>
   <kbd>
-    <kbd> 💻Front-end</kbd>
+    <kbd> Front-end</kbd>
     <br>
     <br>
 
