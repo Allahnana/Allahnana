@@ -57,15 +57,16 @@
       height="30"
     />
   </a>
-     <a href="https://sass-lang.com" target="_blank">
+  
+<!--      <a href="https://sass-lang.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
       width="40"
       height="40"
     />
-  </a>
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
+  </a> -->
+
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
      <a href="https://tailwindcss.com/" target="_blank">
     <img
