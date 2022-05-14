@@ -4,14 +4,13 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate Front End Developer. Love to build Web Applications with latest tech available😄
+<h3 align="center">A passionate Front End Developer. Love to build Web Applications with latest tech available😄![giphy (1)](https://user-images.githubusercontent.com/55934513/168430520-50f3d79f-c9b4-4280-88b2-a160868c31cb.gif)
+
 </h3>
 
 <br>
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://www.google.com/search?q=developer%20gif&tbm=isch&hl=en&sa=X&ved=0CCkQtI8BKABqFwoTCNj4s_ub3_cCFQAAAAAdAAAAABAR&biw=1905&bih=911#imgrc=ITaGGdoGDaxxhM" />
-
-"https://www.google.com/search?q=developer%20gif&tbm=isch&hl=en&sa=X&ved=0CCkQtI8BKABqFwoTCNj4s_ub3_cCFQAAAAAdAAAAABAR&biw=1905&bih=911#imgrc=ITaGGdoGDaxxhM"
 
 ### I am a Front-End Developer.
 - 🔭 I’m currently working on my Portfolio Website :grin:
