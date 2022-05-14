@@ -31,7 +31,7 @@
 
 
 
-<h3 align="left">▶ Connect with me:</h3>
+<h3 align="left"> 📱Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/abdulhadi-usman-25700b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
     <a href="https://www.instagram.com/dev_abdul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
@@ -118,7 +118,7 @@
    <kbd>
 </br>
     </p>
-<h3 align="left">▶ Stats:</h3>
+<h3 align="left"> 📊 Stats:</h3>
 
 <p align="center"><img src="https://badges.pufler.dev/visits/allahnana/allahnana?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/allahnana/?style=for-the-badge"/>
 </p>
