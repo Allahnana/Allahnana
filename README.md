@@ -4,7 +4,7 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate Front End Developer. Love to build Mobile and Web Applications with latest tech available😄
+<h3 align="center">A passionate Front End Developer. Love to build Web Applications with latest tech available😄
 </h3>
 
 <br>
@@ -28,7 +28,7 @@
   <p>
     <a href="https://www.linkedin.com/in/abdulhadi-usman-25700b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
     <a href="https://www.instagram.com/dev_abdul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
-      <a href="https://twitter.com/dev_allahnana" target="_blank"><img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.twitter.com/_.sanda._)](https://www.twitter.com/_.sanda._/"></a>
+      <a href="https://twitter.com/dev_allahnana" target="_blank"><img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/_.sanda._)](https://www.twitter.com/_.sanda._/"></a>
     <a href="https://stackoverflow.com/users/16611484/usman-abdulhadi"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
   </p>
 </br>
