@@ -88,10 +88,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-plain.svg" />  -->
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-plain.svg" /> -->
-   <img![NPM](https://img.icons8.com/color/30/npm.png) />
       <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
