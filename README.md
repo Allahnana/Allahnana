@@ -12,7 +12,7 @@
 
 <img align="right" margin-top="10px" height="270px" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oupish10n4z8kttibgqt86n2gfcwqyur7rtnt4g5&rid=giphy.gif&ct=g" /> -->
 
-<img align="right" margin-top="10px" height="270px" alt="GIF" src="https://www.tecnoschool.com.ar/img/cursos/python/trabajando.gif" />
+<img align="right" margin-top="10px" height="270px" alt="GIF" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" />
 
 ### I am a Front-End Developer.
 - 🔭 I’m currently working on my Portfolio Website :grin:
