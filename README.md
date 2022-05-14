@@ -19,10 +19,20 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ ### Blogs posts 
+ BLOG-POST-LIST:START 
+ BLOG-POST-LIST:END 
+ 
+ - In my free time I like to read books, write some code and try to debug some other person's code from the community.
+- I'm a community guy who loves to connect with other fellow developers.
+
+
+
 </br>
+
+
+
+
 
 <h3 align="left">▶ Connect with me:</h3>
   <p>
