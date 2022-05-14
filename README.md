@@ -4,7 +4,7 @@
 
 ## 🧐 About me
 
-<h3 align="center">A passionate Front End Developer. Love to build Web Applications with latest tech available😄!
+<h3 align="center">I am a passionate Front End Developer who Love's building Web Applications with latest tech available😄!
 
 </h3>
 
