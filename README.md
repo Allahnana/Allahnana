@@ -84,7 +84,7 @@
   <br>
   <kbd>
   <kbd>
-    <kbd>System, Networking & Deployment</kbd>
+    <kbd>System, Networking, Tools & Deployment</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
@@ -98,6 +98,8 @@
       width="40"
       height="40"
     />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </a>
   </kbd>
   <kbd>
@@ -111,8 +113,7 @@
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+ 
 <!--     <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" /> -->
   </kbd>
    <kbd>
