@@ -89,14 +89,14 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
   </kbd>
-   <kbd>
+<!--    <kbd>
     <kbd>Mobile</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
      <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="30px"/>
-  </kbd>
+  </kbd> -->
  <kbd>
   <kbd>
     <kbd>Front-end</kbd>
@@ -188,20 +188,20 @@ You can click the Preview link to take a look at your changes.
  -->
 <p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"/>
 </p>
-<p align="center"><img src="https://badges.pufler.dev/commits/monthly/aakashsh1999"/></p>
+<p align="center"><img src="https://badges.pufler.dev/commits/monthly/allahnana"/></p>
 
 
 </p>
   </a>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsh1999&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allahnana&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashsh1999&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=allahnana&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsh1999&theme=holi-theme">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allahnana&theme=holi-theme">
 </p>
 
 
