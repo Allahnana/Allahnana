@@ -10,11 +10,7 @@
 
  <br>
 
-
-
 <img align="right" margin-top="10px" height="270px" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oupish10n4z8kttibgqt86n2gfcwqyur7rtnt4g5&rid=giphy.gif&ct=g" /> 
-
-<img alt="" class="cf my mz" src="https://miro.medium.com/max/1400/1*UFK4FjRiapOJ44dwksBanw.gif" width="700" height="525" role="presentation"/>
 
 
 ### I am a Front-End Developer.
@@ -26,15 +22,9 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
- 
-
-
 
 
 </br>
-
-
-
 
 
 <h3 align="left"> 📱Connect with me:</h3>
@@ -135,10 +125,10 @@
 <a href="https://github.com/Allahnana/github-readme-activity-graph"><img alt="Allahnana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Allahnana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-
+<!-- 
 ## 🚀 Languages and Tools:
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-<br/>
+<br/> -->
 
 
