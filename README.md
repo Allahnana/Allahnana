@@ -86,9 +86,8 @@
    
   </br>
     </p>
-<h3 align="center"> 📊 Stats:</h3>
 
-<h2 align="center">My Github Stats</h2>
+<h2 align="center">My Github Stats 📊</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allahnana&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
