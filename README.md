@@ -78,20 +78,6 @@
      
   </kbd>
   
-  <br>
-  <br>
-  <kbd>
- 
-   
-    <br>
-    <br>
-    <kbd>
-     
-  
-    </kbd>
- 
-  
-  </kbd>
 
    <kbd>
 </br>
