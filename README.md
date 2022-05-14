@@ -3,9 +3,11 @@
  <h1 align="center">Hi 👋, I'm Usman Abdulhadi Allahnana</h1>  
  
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+I'm+Dev_Abdul!+👋;I+a+Love+Coding+👨🏻‍💻;)
+
 
 ## 🧐 About me
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+I'm+Dev_Abdul!+👋;I+a+Love+Coding+👨🏻‍💻;)
 
 <h3 align="center">I am a passionate Front End Developer who Love's building Web Applications with latest tech available😄!
 
