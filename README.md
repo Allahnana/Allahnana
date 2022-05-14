@@ -48,7 +48,7 @@
   <kbd>
     <kbd>Front-end</kbd>
     <br>
-    <br>
+<!--     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
@@ -75,7 +75,7 @@
       width="30"
       height="30"
     />
- 
+  -->
  
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   </kbd>
