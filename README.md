@@ -4,7 +4,7 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate Front End Developer. Love to build Web Applications with latest tech available😄![giphy (1)](https://user-images.githubusercontent.com/55934513/168430520-50f3d79f-c9b4-4280-88b2-a160868c31cb.gif)
+<h3 align="center">A passionate Front End Developer. Love to build Web Applications with latest tech available😄!
 
 </h3>
 
