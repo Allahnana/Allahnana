@@ -81,9 +81,9 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-plain.svg" /> 
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-plain.svg" />  -->
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-plain.svg" />
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-plain.svg" /> -->
       <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -113,7 +113,7 @@
     </p>
 <h3 align="left">▶ Stats:</h3>
 
-<p align="center"><img src="https://badges.pufler.dev/visits/allahnana/allahnana?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"/>
+<p align="center"><img src="https://badges.pufler.dev/visits/allahnana/allahnana?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/allahnana/?style=for-the-badge"/>
 </p>
 <p align="center"><img src="https://badges.pufler.dev/commits/monthly/allahnana"/></p>
 
