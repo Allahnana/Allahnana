@@ -12,7 +12,7 @@
 
 <img align="right" margin-top="10px" height="270px" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oupish10n4z8kttibgqt86n2gfcwqyur7rtnt4g5&rid=giphy.gif&ct=g" /> -->
 
-<img align="right" margin-top="10px" height="270px" alt="GIF" src="<img align="right" margin-top="10px" height="270px" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oupish10n4z8kttibgqt86n2gfcwqyur7rtnt4g5&rid=giphy.gif&ct=g" />
+<img align="right" margin-top="10px" height="270px" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feconomictimes.indiatimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw1jvTUxKpF3sQ4LWgOmknqd&ust=1652625572279000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLD9yZWc3_cCFQAAAAAdAAAAABAJ" />
 
 ### I am a Front-End Developer.
 - 🔭 I’m currently working on my Portfolio Website :grin:
