@@ -16,7 +16,7 @@
 ### I am a Front-End Developer.
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 👯 I'm a community guy who loves to connect with other fellow developers. :wink:
-- 🙋‍♂️ In my free time I like to watch movies, write some code.
+- 👨♂️ In my free time I like to watch movies, write some code.
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
@@ -27,7 +27,7 @@
 </br>
 
 
-<h3 align="left"> 📱Connect with me:</h3>
+<h3 align="center"> 📱Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/abdulhadi-usman-25700b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
     <a href="https://www.instagram.com/dev_abdul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
@@ -36,7 +36,7 @@
   </p>
 </br>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+<h3 align="center">🚀 Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>  
@@ -46,7 +46,7 @@
       <br>
        <br>
   <kbd>
-    <kbd> 👨🏻‍💻 &nbsp;Front-end</kbd>
+    <kbd> 👨🏻‍💻Front-end</kbd>
     <br>
     <br>
 
