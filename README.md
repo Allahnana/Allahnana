@@ -1,13 +1,12 @@
 - 👋 Hi, I’m Usman Abdulhadi Allahnana.....
 - 👀 I’m interested in learning new technologies that will help in solving our modern problems.
 - 🌱 I’m currently learning React.js
-<!---
 Allahnana/Allahnana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> Dev_Abdul..
+ Dev_Abdul..
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Aakash!+👋;I'm+a+Front+End+Developer;I'm+a+Mobile+App+Developer)
-<h1 align="center">Hi 👋, I'm Allahnana</h1> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Dev_Abdul!+👋;I'm+a+Front+End+Developer;)
+<h1 align="center">Hi 👋, I'm Dev_Abdul</h1> 
 
 ## 🧐 About
 
