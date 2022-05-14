@@ -14,7 +14,7 @@
 ### I am a Front-End Developer.
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 👯 I'm a community guy who loves to connect with other fellow developers. :wink:
-- 🙋‍♂️ In my free time I like to watch movies, write some code and try to debug some other person's code from the community.
+- 🙋‍♂️ In my free time I like to watch movies, write some code.
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
