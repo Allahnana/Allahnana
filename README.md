@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Usman Abdulhadi Allahnana.....
-- 👀 I’m interested in learning new technologies that will help in solving our modern problems.
-- 🌱 I’m currently learning React.js
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Dev_Abdul!+👋;I'm+a+Front+End+Developer;)
 <h1 align="center">Hi 👋, I'm Dev_Abdul</h1> 
