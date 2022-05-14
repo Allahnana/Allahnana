@@ -1,6 +1,6 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+I'm+Dev_Abdul!+👋;I'm+a+Front+End+Developer+👨🏻‍💻;I'm+a+UI/+UX+Designer+🎨;)
-<h1 align="center">Hi 👋, I'm Dev_Abdul</h1>  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+I'm+Dev_Abdul!+👋;I'm+a+Front+End+Developer+👨🏻‍💻;I'm+a+UI/UX+Designer;)
+<!-- <h1 align="center">Hi 👋, I'm Dev_Abdul</h1>  -->
 
 ## 🧐 About
 
