@@ -36,7 +36,7 @@
   </p>
 </br>
 
-<h3 align="left">🚀 Languages and Tools::</h3>
+<h3 align="left">🚀 Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>  
@@ -46,7 +46,7 @@
       <br>
        <br>
   <kbd>
-    <kbd>Front-end</kbd>
+    <kbd> 👨🏻‍💻 &nbsp;Front-end</kbd>
     <br>
     <br>
 
@@ -69,6 +69,7 @@
     <br>
     
    <kbd>
+    <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
@@ -111,7 +112,7 @@
 
 
 
-<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
+<h2>Things I code with</h2>
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
