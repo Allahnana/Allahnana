@@ -46,24 +46,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">▶ Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Programming Languages</kbd>
-   
-     
+    <kbd>Programming Languages</kbd>   
   </a>
   </kbd>
-  <kbd>
- 
-      <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  </kbd>
-
- <kbd>
+  
   <kbd>
     <kbd>Front-end</kbd>
     <br>
