@@ -51,16 +51,16 @@ You can click the Preview link to take a look at your changes.
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
-<!--       <a href="https://www.typescriptlang.org/" target="_blank">
+      <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
     />
-  </a> -->
+  </a>
   </kbd>
-<!--   <kbd>
+  <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
       alt="express"
       width="40"
       height="40"
-    /> -->
+    />
 
       <a href="https://postman.com" target="_blank">
     <img
