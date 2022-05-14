@@ -87,14 +87,14 @@
   </br>
     </p>
 <h3 align="left"> 📊 Stats:</h3>
-
+<!-- 
 <p align="center"><img src="https://badges.pufler.dev/visits/allahnana/allahnana?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/allahnana/?style=for-the-badge"/>
 </p>
 <p align="center"><img src="https://badges.pufler.dev/commits/monthly/allahnana"/></p>
 
 
 </p>
-  </a>
+  </a> -->
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allahnana&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
