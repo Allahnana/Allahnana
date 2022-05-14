@@ -16,7 +16,7 @@
 
 <img alt="" class="cf my mz" src="https://miro.medium.com/max/1400/1*UFK4FjRiapOJ44dwksBanw.gif" width="700" height="525" role="presentation"/>
 
-<img align="right" margin-top="10px" height="270px" alt="GIF" src="https://miro.medium.com/max/1400/1*UFK4FjRiapOJ44dwksBanw.gif" />
+<!-- <img align="right" margin-top="10px" height="270px" alt="GIF" src="https://miro.medium.com/max/1400/1*UFK4FjRiapOJ44dwksBanw.gif" /> -->
 
 ### I am a Front-End Developer.
 - 🔭 I’m currently working on my Portfolio Website :grin:
