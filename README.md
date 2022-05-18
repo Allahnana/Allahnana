@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=I'm+Dev_Abdul!+👋;I+Love+Coding+👨🏻‍💻;)
 
-<h3 align="center">I am a passionate Front End Developer who Love's building Web Applications with latest tech available😄!nv
+<h3 align="center">I am a passionate Front End Developer who Love's building Web Applications with latest tech available😄
 
 </h3>
 
