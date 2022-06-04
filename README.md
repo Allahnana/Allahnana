@@ -42,7 +42,7 @@
 <p style="display: inline-block;" align="center">
   
   <kbd>
-    <kbd> Front-end</kbd>.
+    <kbd> Front-end</kbd>
     <br>
     <br>
 
