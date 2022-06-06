@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 
-</br>.
+</br>
 
 
 <h3 align="center"> 📱Connect with me:</h3>
