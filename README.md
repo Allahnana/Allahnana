@@ -12,7 +12,7 @@
 
 </h3>
 
- <br>.
+ <br>
 
 <img align="right" margin-top="10px" height="270px" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oupish10n4z8kttibgqt86n2gfcwqyur7rtnt4g5&rid=giphy.gif&ct=g" /> 
 
@@ -44,7 +44,7 @@
   <kbd>
     <kbd> Front-end</kbd>
     <br>
-    <br>
+    <br>.
 
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
