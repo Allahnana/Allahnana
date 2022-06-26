@@ -1,4 +1,4 @@
-Hh
+
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+I'm+Dev_Abdul!+👋;I'm+a+Front+End+Developer+👨🏻‍💻;) -->
  <h1 align="center">Hi 👋, I'm Usman Abdulhadi Allahnana.</h1>  
  
@@ -12,7 +12,7 @@ Hh
 
 </h3>
 
- <br>.
+ <br>
 
 <img align="right" margin-top="10px" height="270px" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oupish10n4z8kttibgqt86n2gfcwqyur7rtnt4g5&rid=giphy.gif&ct=g" /> 
 
